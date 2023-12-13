@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ead71cfd-16ea-4c3e-a743-e2ca571e44d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/flaskProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-12_05_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-12_06_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-12_13_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/face_recognition_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Attendance.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ZTyyK9nk4IcLAXEuascIr4zEki" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flask server.flaskProject1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nguyenkhang/PycharmProjects/flaskProject1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="flaskProject1" type="Python.FlaskServer">
+      <module name="flaskProject1" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead71cfd-16ea-4c3e-a743-e2ca571e44d8" name="Changes" comment="" />
+      <created>1702460616621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702460616621</updated>
+      <workItem from="1702460620315" duration="353000" />
+      <workItem from="1702461080750" duration="355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flaskProject1$flaskProject1.coverage" NAME="flaskProject1 Coverage Results" MODIFIED="1702461350563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
