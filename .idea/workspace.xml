@@ -4,80 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead71cfd-16ea-4c3e-a743-e2ca571e44d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/flaskProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-12_05_23.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-12_06_23.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-12_13_23.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/face_recognition_model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Attendance.html" afterDir="false" />
+    <list default="true" id="ead71cfd-16ea-4c3e-a743-e2ca571e44d8" name="Changes" comment="commit firt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/face_recognition_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/static/face_recognition_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Khang_12/Khang_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/face_recognition_model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Bao_1234/Bao_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Khang_123/Khang_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Loi_333/Loi_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Nguyen_2333/Nguyen_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Sơn _13122312/Sơn _9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/static/faces/Thắm _122132131/Thắm _9.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,13 +160,68 @@
       <updated>1702460616621</updated>
       <workItem from="1702460620315" duration="353000" />
       <workItem from="1702461080750" duration="355000" />
+      <workItem from="1702461446736" duration="935000" />
+      <workItem from="1702610968226" duration="1560000" />
+      <workItem from="1704421931000" duration="921000" />
+      <workItem from="1704422910288" duration="11000" />
+      <workItem from="1704499508178" duration="1459000" />
+      <workItem from="1704507382172" duration="520000" />
+      <workItem from="1704528852899" duration="57000" />
+      <workItem from="1714185791052" duration="383000" />
+      <workItem from="1715594441340" duration="631000" />
+      <workItem from="1723451795143" duration="1282000" />
+      <workItem from="1723454821619" duration="1000" />
     </task>
+    <task id="LOCAL-00001" summary="commit firt">
+      <option name="closed" value="true" />
+      <created>1702461475288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702461475288</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit firt">
+      <option name="closed" value="true" />
+      <created>1702461487416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702461487416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit firt" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit firt" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/flaskProject1$flaskProject1.coverage" NAME="flaskProject1 Coverage Results" MODIFIED="1702461350563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flaskProject1$flaskProject1.coverage" NAME="flaskProject1 Coverage Results" MODIFIED="1715594461738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
